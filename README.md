@@ -31,7 +31,7 @@ Este projeto foi inteiramente desenvolvido utilizando-se das tecnologias abaixo:
 - Expo
 
 <a id="resultados"></a>
-## :check: Resultados
+## :heavy_check_mark: Resultados
 <p>Durante os 5 dias da semana do Next Level Week foi possível construir uma aplicação web utilizando-se do ReactJS, uma aplicação mobile utilizando-se do React Native com o Expo e um servidor utilizando-se do Node.js com o Express.
 
 Detalhes de implementação das interfaces web e mobile podem ser vistas a partir do link do <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/">Figma</a>, na qual o projeto foi baseado.</p>
